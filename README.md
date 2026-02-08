@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarak13&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarak13" /> </p>
+<p text-align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarak13&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarak13" /> </p>
 
 # 💫 About Me:
 I'm passionate about coding and cybersecurity
